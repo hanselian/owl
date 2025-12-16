@@ -39,3 +39,11 @@ $b = 5;
 $modulus = $a % $b;
 echo "Hasil modulus dari $a % $b = $modulus";
 ?>
+
+<?php
+#pangkat dua angka
+$a = 10;
+$b = 5;
+$pangkat = $a ** $b;
+echo "Hasil pangkat dari $a ** $b = $pangkat";
+?>
