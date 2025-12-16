@@ -39,5 +39,3 @@ $b = 5;
 $modulus = $a % $b;
 echo "Hasil modulus dari $a % $b = $modulus";
 ?>
-
-
